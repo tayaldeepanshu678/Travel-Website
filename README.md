@@ -18,7 +18,8 @@ index.html
 
     Document Structure: Uses <!DOCTYPE html>, <html>, <head>, and <body> to create the basic page structure.
 
-Text Formatting: Employs tags like <h1>, <h2>, <p>, <strong>, <em>, and <ins> for headings, paragraphs, and text styling.
+Text Formatting: Employs tags like <h1>, <h2>, <p>, <strong>, <em>, and <ins> 
+for headings, paragraphs, and text styling.
 
 Links: Features different types of hyperlinks: one that opens a new page using target="_blank" and another that jumps to a specific section on the same page using an ID (<a href="#Contact">).
 
